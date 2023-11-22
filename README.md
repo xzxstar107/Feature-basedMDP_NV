@@ -5,7 +5,7 @@ This repository is dedicated to our innovative research presented in the "Dynami
 
 ## Repository Contents
 - `Dynamic_Feature-based_Newsvendor.pdf`: The paper detailing our research and findings.
-- `CVI_Code.ipynb`: Jupyter notebook containing the code for both the baseline models and our proposed CVI algorithm.
+- `CMDP_test_update.ipynb`: Jupyter notebook containing the code for both the baseline models and our proposed CVI algorithm.
 
 ## Future Directions
 Our next steps include extending the model to non-Markovian features and investigating actions with both immediate and delayed effects.
